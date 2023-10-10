@@ -1,4 +1,4 @@
-# pizza_app
+# Calculatrice_app
 
 A new Flutter project.
 
